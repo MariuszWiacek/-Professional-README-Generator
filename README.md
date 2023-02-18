@@ -1,6 +1,6 @@
 
   # <p align="center">**Professional README Generator**</p>
-  ### <p align="center" style="color:blue">This README was created using Profesional README Generator.</p>
+  ### <p align="center" style="color: blue">This README was created using Profesional README Generator.</p>
   ## Table of Contents
   * [Description](#description)
   * [Usage](#usage)
