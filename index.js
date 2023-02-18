@@ -79,5 +79,12 @@ function init (){
          writeToFile(data);
      });}
 
+      //function writes our README to file and creates that file
+ function writeToFile(data) {
+    fs.appendFile(`${data.fileName}.md`,generateMarkdown(data),function(err){
+        if (err) throw err;
+        console.log('Your new Readme is saved to new file .');
+    });}
+
 // function call to initialize program
 init();
