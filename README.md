@@ -19,7 +19,8 @@
   ## Contributing
   * Made by Mariusz Wiacek
   # License
-  
+  ${getLicenseBadge(data.license)}
+* Link: ${getLicenseLink(data.license)}
   ### Contact me
   * Profile: https://github.com/MariuszWiacek
   * Email: wiacek.mariusz@gmail.com 
