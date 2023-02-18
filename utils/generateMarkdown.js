@@ -8,9 +8,9 @@ function generateMarkdown(data) {
   * [Usage](#usage)
   * [Languages](#languages)
   * [Installation Instructions](#installation)
-  * [Contributing](#Contributing)
+  * [Contributing](#contributing)
   * [License](#license)
-  * [ContactMe](#contactMe)
+  * [Questions](#questions)
   ## Description
   *${data.description}*
   ## Usage
@@ -26,7 +26,8 @@ function generateMarkdown(data) {
   ## License
   ${getLicenseBadge(data.license)} 
   * Link: ${getLicenseLink(data.license)}
-  ## Contact me
+  ## Questions
+  ### *Contact me :*
   * Profile: https://github.com/${data.userName}
   * Email: ${data.email} `;
 
@@ -34,7 +35,6 @@ function generateMarkdown(data) {
 
 
 }
-
 //function that returns a license badge
 function getLicenseBadge(license) {
   switch (license) {
