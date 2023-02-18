@@ -1,5 +1,5 @@
 
-  ###<p align="center">**Professional README Generator**</p>
+  ### <p align="center">**Professional README Generator**</p>
   ## Table of Contents
   * [Description](#description)
   * [Usage](#usage)
