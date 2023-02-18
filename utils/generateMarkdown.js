@@ -12,7 +12,7 @@ function generateMarkdown(data) {
   * [License](#license)
   * [ContactMe](#contactMe)
   ## Description
-  * ${data.description}
+  *${data.description}*
   ## Usage
   * ${data.usage}
   ## Languages
