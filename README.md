@@ -1,5 +1,5 @@
 
-  ###<p align="center">**Professional README Generator**</p>
+  # <p align="center">**Professional README Generator**</p>
   ## Table of Contents
   * [Description](#description)
   * [Usage](#usage)
@@ -20,6 +20,6 @@
   * Made by Mariusz Wiacek
   # License
   
-  ## Contact me
+  ### Contact me
   * Profile: https://github.com/MariuszWiacek
   * Email: wiacek.mariusz@gmail.com 
