@@ -19,7 +19,7 @@
   * JQuery
   * node.js
   ## Installation
-  * In order to use this generator you need to open terminal - node.js
+  * In order to use this generator you need to open terminal - node.js<br>
   *Please watch this video how to use my Proffesional Readme Generator*
    ## Video
   [![Demo video](/utils/cam.jpg)](https:)
