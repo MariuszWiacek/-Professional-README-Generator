@@ -21,7 +21,7 @@
   * In order to use this generator you need to open terminal - node.js<br>
   *Please watch this video how to use my Proffesional Readme Generator*
    ## Video
-  To see demo video click below : 
+  To see demo video click below : <br>
   [![Watch the demo video](utils/video.png)](https://drive.google.com/file/d/1erEin3yq93FREZuHtdZZfBs46ISmwMtV/view)
 
   ## Contributing
