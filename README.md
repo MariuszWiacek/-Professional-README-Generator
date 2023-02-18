@@ -5,7 +5,7 @@
   * [Usage](#usage)
   * [Languages](#languages)
   * [Installation Instructions](#installation)
-  * [Collaboratores](#Collaboratores)
+  * [Collaboratores](#Contributing)
   * [License](#license)
   * [ContactMe](#contactMe)
   ## Description
