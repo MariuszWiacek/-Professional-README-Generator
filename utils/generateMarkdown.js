@@ -14,11 +14,13 @@ function generateMarkdown(data) {
   ## Description
   *${data.description}*
   ## Usage
-  * ${data.usage}
+  ${data.usage}
   ## Languages
   * ${data.languages}
   ## Installation
-  * ${data.installation}
+  ${data.installation}
+  ## Link
+  ${data.link}
   ## Contributing
   * ${data.collabInput}
   ## License
