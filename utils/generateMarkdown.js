@@ -8,9 +8,9 @@ function generateMarkdown(data) {
   * [Usage](#usage)
   * [Languages](#languages)
   * [Installation Instructions](#installation)
-  * [Link](#link)
   * [Contributing](#contributing)
   * [License](#license)
+  * [Link](#link)
   * [Questions](#questions)
   ## Description
   *${data.description}*
@@ -20,13 +20,13 @@ function generateMarkdown(data) {
   * ${data.languages}
   ## Installation
   ${data.installation}
-  ## Link
-  ${data.link}
   ## Contributing
   * ${data.collabInput}
   ## License
   ${getLicenseBadge(data.license)} 
   * Link: ${getLicenseLink(data.license)}
+  ## Link
+  ${data.link}
   ## Questions
   ### *Contact me :*
   * Profile: https://github.com/${data.userName}
