@@ -9,31 +9,31 @@
   * [License](#license)
   * [Contact Me](#Contact-me)
   ## Description
-  
+# <p align="center">**Professional README Generator**</p>
+  ##### <p align="center">*This README was created using Profesional README Generator*</p>
+  ## Table of Contents
+  * [Description](#description)
+  * [Usage](#usage)
+  * [Languages](#languages)
+  * [Installation Instructions](#installation)
+  * [Collaboratores](#Contributing)
+  * [License](#license)
+  * [Contact Me](#Contact-me)
+  ## Description
+  *When creating an open source project on GitHub, it’s important to have a high-quality README for the app. This should include what the app is for, how to use the        app, how to install it, how to report issues, and how to make contributions—this last part increases the likelihood that other developers will contribute to the          success of the project.
+  This README Generator allows you to create your personalised README for your project.*
   ## Usage
-  
+  * Copy your new README file to your profile.
   ## Languages and programs
   * Javascript
-  * npm
+  * JQuery
   * node.js
   ## Installation
   * In order to use this generator you need to open terminal - node.js<br>
- 
-  ### Screenshots
-![App Screenshot](./assets/images/app-screenshot.png)
-The application runs from the command line as seen above.
-<br/><br/>
-![Page Screenshot](./assets/images/generated-page-screenshot.png)
-An example of the generated team roster page.
-
-
-## Tests
-To run tests on the application, install
-```
-npm install jest
-```
-
-and run `npm run test` from the command line.
+  *Please watch this video how to use my Proffesional Readme Generator*
+   ## Video
+  To see demo video click below : <br>
+  [![Watch the demo video](utils/video.png)](https://drive.google.com/file/d/1erEin3yq93FREZuHtdZZfBs46ISmwMtV/view)
 
   ## Contributing
   * Created by Mariusz Wiacek
